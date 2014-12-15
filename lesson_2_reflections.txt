@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+it registers with git that git needs to version control the current folder/directory.
