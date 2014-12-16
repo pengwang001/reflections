@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 You fork when you don't have permission to contribute to a repo on github
 you clone when you need to have a copy of the repo somewhere to work on
 you branch when you want to have a diffeerent context for something independent and you don't want the work to affect what is currently in the master branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It makes syncing easier also make it easy to tell if you are already out of sync with remote repo
