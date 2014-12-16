@@ -10,3 +10,6 @@ Release branch vs. tech trial branch
 
 How do the diagrams help you visualize the branch structure?
 It allows me to see the relationship between different branches and undestand how they work.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic is good to handle simple changes but more complicated ones require manual intervention.
