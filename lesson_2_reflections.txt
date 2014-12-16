@@ -13,3 +13,5 @@ It allows me to see the relationship between different branches and undestand ho
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 automatic is good to handle simple changes but more complicated ones require manual intervention.
+
+THis is updated in lesson 3 on udacity.
