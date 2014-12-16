@@ -5,3 +5,8 @@ computer.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Your local code may get broken when synced wihtout you starting it manually. You may not be at the right time to incorporate the new changes coming from reomtes. This gives the developer the freedom to decide when makes sense.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+You fork when you don't have permission to contribute to a repo on github
+you clone when you need to have a copy of the repo somewhere to work on
+you branch when you want to have a diffeerent context for something independent and you don't want the work to affect what is currently in the master branch
